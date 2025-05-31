@@ -1,0 +1,16 @@
+**Available commands:**
+
+$hello
+$brainrot_mode
+$my_password
+$send_a_random_emoji
+$flip_a_coin
+$meme
+$animal_memes
+$random_memes
+$duck
+$solution
+$i_want_to_know
+$final
+
+Coming soon!
